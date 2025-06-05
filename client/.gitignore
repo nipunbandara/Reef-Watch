@@ -1,0 +1,34 @@
+.DS_Store
+/node_modules/
+
+# React Router
+/.react-router/
+/build/
+
+# Environment variables
+/.env
+/.env.local
+/.env.development
+/.env.production
+/.env.test
+
+# Logs
+/logs
+
+# Temporary files
+/tmp
+
+# Coverage reports
+/coverage
+
+# Build artifacts
+/dist
+
+# IDE specific files
+/.vscode/
+/.idea/
+
+# Miscellaneous
+/.cache
+
+
