@@ -1,6 +1,14 @@
-Deep Learning Model:
-Implemented CNN-based image classification to accurately identify coral types and health status (healthy, bleached, diseased).
-Interactive Geospatial Visualization:
-Built dynamic, interactive maps and dashboards that visually present reef health metrics, trends, and predictions.
-Automated Alert System:
-Integrated automated notifications triggered by significant ecological changes, ensuring timely conservation responses.
+<details>
+<summary><strong>Deep Learning Model</strong></summary>
+Developed a CNN-based image classifier to accurately detect coral species and assess health conditions (healthy, bleached, diseased).
+</details>
+
+<details>
+<summary><strong>Interactive Geospatial Visualization</strong></summary>
+Created dynamic maps and dashboards to visualize reef health metrics, trends, and predictive analytics.
+</details>
+
+<details>
+<summary><strong>Automated Alert System</strong></summary>
+Implemented real-time notifications for significant ecological changes to support prompt conservation actions.
+</details>
