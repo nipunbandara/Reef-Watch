@@ -10,3 +10,5 @@ Created **dynamic maps and dashboards** to visualize reef health metrics, trends
 
 ### ⚡ Automated Alert System
 Implemented **real-time notifications** for significant ecological changes to support prompt conservation actions.
+
+
